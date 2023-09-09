@@ -1,0 +1,4 @@
+class Object
+  def main: (String?) -> void
+  def print_usage_and_exit: () -> bot
+end
